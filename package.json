@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^1.15.0"
+    "puppeteer-core": "^1.15.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.3",
